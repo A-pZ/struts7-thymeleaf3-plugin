@@ -1,7 +1,6 @@
 # Struts7-Thymeleaf3-plugin
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.a-pz/struts2-thymeleaf3-plugin/badge.png?style=plastic)](https://search.maven.org/#search%7Cga%7C1%7Ca%3A%22struts7-thymeleaf3-plugin%22)
-
+[![Maven Package](https://github.com/A-pZ/struts7-thymeleaf3-plugin/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/A-pZ/struts7-thymeleaf3-plugin/actions/workflows/maven-publish.yml)
 
 This project is Struts2(Version7.0.0)-plugin for use [Thymeleaf](http://www.thymeleaf.org) templating engine version 3.1.3-RELEASE.
 
